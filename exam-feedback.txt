@@ -1,0 +1,19 @@
+CASA0005 GIS Exam Feedback
+
+First marker comments per criterion: 
+Initial project scope: A good project scope with a good plan, which included some reasoning for choices, and a good description of the data used. To improve your scope, you could have included more reasoning and justifications for your decisions and included relevant literature to back up what you were saying. 
+
+Data loading, wrangling and pre-processing: Clear and logical data processing and wrangling. It was good to see you only selecting the columns you needed and that you renamed the obesity column. Parts of the data wrangling could have been improved with sentences before the code introducing what you were about to do so that it is clear for the reader what is coming next. 
+
+Methods, interpretation and criticality: Good interpretation and commentary through most of the assessment after each piece of analysis. Appropriate methods were chosen and used. Good to see you checking the assumptions of regression. Good to see you using other tests to justify and decide what piece of analysis you were going to next. The writing throughout was good but I thought the discussion needed to be a bit long. You made a good attempt but if you could have been improved by including a discussion on limitations and policy recommendations as well as relevant literature. 
+
+Visualisation proficiency and communication: Great visualisations! Great series of histograms and it was good to see you customising them to make them look good. The correlation plots and scatter plots looked really nice too. All of the maps were missing titles and some were missing the north arrow and scale bar which would have many them look better. Overall, the maps in the later part looked really good. The code chunks were commented and titled really well throughout too. Well done, a good piece of work with some great aspects to it. 
+
+Second marker comments: 
+The project scope was well written and presented with a logical structure. The hypothesis and assumptions were clear and testable. The summary of data was also clear and to the point. Data were loaded using the Here package which is good for cross-platform reproducibility. Appropriate coordinate refence system and character encodings were applied to the data. Variables were carefully selected for analysis. 
+
+Analyses were supported with appropriate commentary and code comments. The check for multicollinearity early on in the analysis was very helpful leading in to the more abstract regressions. Assumptions were clearly signposted at each step of the analysis which is good for the reader and helps lead them through the logic and reasoning behind the analysis. 
+
+Charts were attractive, useful and generally and well chosen. The chart displaying multicollinearity was very useful and to the point and made the relationships it explored readily understandable. The maps were well presented. Some earlier plots would have benefitted from titles. Inclusion of bar charts in the final plots was useful by providing a second perspective on the relationships depicted. 
+
+Some of the choices regarding colour schemes and transparency levels could be tweaked but were good given the number produced in the available time. The conclusion was good. One suggestion would be to add some recommendations regarding specific areas of the city. This was a very competent and informative piece of analysis.
